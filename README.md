@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ferdi-kaynar
 - 🔭 I’m currently working as Data Scientist
 - 📫 How to reach me ferdikaynar1@gmail.com
-- 📄 Know about my experiences https://www.linkedin.com/in/ferdikaynar
+- 📄 Know about my experiences https://www.linkedin.com/in/ferdikayna
 
 
 <!---

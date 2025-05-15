@@ -7,9 +7,7 @@
 
 Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim. Makine öğrenmesi, derin öğrenme ve veri analizi konularında güçlü bir altyapıya sahibim. Yenilikçi çözümler geliştirmeye ve sürekli öğrenmeye odaklanıyorum.
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferdi-kaynar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
+
 
 ## 🚀 Uzmanlık Alanlarım
 

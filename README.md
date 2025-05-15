@@ -1,62 +1,37 @@
-# 👋 Merhaba, Ben Ferdi Kaynar!
-
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Merhaba, Ben Ferdi Kaynar
 
 ## 👨‍💻 Hakkımda
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6NWk2Y2E3NmN1ZWdxbGxvNnBnOWFxcXB0c2Zxd2Vxc2txeWRvdCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim. Makine öğrenmesi, derin öğrenme ve veri analizi konularında güçlü bir altyapıya sahibim. Yenilikçi çözümler geliştirmeye ve sürekli öğrenmeye odaklanıyorum.
-
-
+Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim. Makine öğrenmesi, derin öğrenme ve veri analizi konularında tutkulu bir şekilde çalışıyorum. Yenilikçi çözümler geliştirmeye ve sürekli öğrenmeye odaklanıyorum.
 
 ## 🚀 Uzmanlık Alanlarım
 
 ### 🔹 Veri Bilimi & Yapay Zeka
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab" />
+</div>
 
 ### 🔸 Yazılım Geliştirme
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,docker,kubernetes,aws,git,mongodb,postgres,mysql,linux,vscode" />
+</div>
 
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdi-kaynar&show_icons=true&theme=algolia" width="400" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdi-kaynar&theme=algolia" width="400" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ferdi-kaynar&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdi-kaynar&theme=tokyonight" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdi-kaynar&layout=compact&theme=algolia" width="400" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferdi-kaynar&theme=algolia" width="400" alt="Productive Time"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdi-kaynar&layout=compact&theme=tokyonight" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferdi-kaynar&theme=tokyonight" width="400"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferdi-kaynar&theme=algolia" width="800" alt="Profile Details"/>
-</div>
-
-
+## 🌱 Güncel Odak Alanlarım
+- Deep Learning
+- Computer Vision
+- Big Data
+- MLOps
 
 ## 🎓 Sertifikalar ve Eğitimler
 
@@ -91,17 +66,9 @@ Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim
 - 🎯 TechDay'24 - GDSC Sakarya University (May 2024)
 </details>
 
-## 🌱 Güncel Odak Alanlarım
-<p align="left">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-6B4EFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Big%20Data-00C7B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-47A248?style=for-the-badge" />
-</p>
-
 ## 📫 İletişim
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/ferdikaynar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -109,22 +76,11 @@ Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ferdi-kaynar">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</p>
+</div>
 
 ---
 <div align="center">
-  ⭐️ Profilimi ziyaret ettiğiniz için teşekkürler! Veri bilimi ve yapay zeka projelerinde işbirliği yapmak veya fikir alışverişinde bulunmak için benimle iletişime geçmekten çekinmeyin.
+  ⭐️ Profilimi ziyaret ettiğiniz için teşekkürler!
 </div>
-
-
-<!---
-ferdi-kaynar/ferdi-kaynar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

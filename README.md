@@ -1,6 +1,132 @@
-- 👋 Hi, I’m @ferdi-kaynar
-- 📫 How to reach me ferdikaynar1@gmail.com
-- 📄 Know about my experiences https://www.linkedin.com/in/ferdikaynar
+# 👋 Merhaba, Ben Ferdi Kaynar!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&lines=Veri+Bilimi+ve+Yapay+Zeka+Geliştiricisi;Machine+Learning+ve+Deep+Learning+Uzmanı;Python+Developer" alt="Typing SVG" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=4%2B+Yıl+Deneyim;20%2B+Sertifika;50%2B+Proje)](https://git.io/typing-svg)
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ferdi-kaynar&label=Profile%20views&color=38BDAE&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ferdi-kaynar?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ferdi-kaynar?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+## 👨‍💻 Hakkımda
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6NWk2Y2E3NmN1ZWdxbGxvNnBnOWFxcXB0c2Zxd2Vxc2txeWRvdCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+
+Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim. Makine öğrenmesi, derin öğrenme ve veri analizi konularında güçlü bir altyapıya sahibim. Yenilikçi çözümler geliştirmeye ve sürekli öğrenmeye odaklanıyorum.
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ferdi-kaynar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+## 🚀 Uzmanlık Alanlarım
+
+### 🔹 Veri Bilimi & Yapay Zeka
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🔸 Yazılım Geliştirme
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferdi-kaynar&show_icons=true&theme=algolia" width="400" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdi-kaynar&theme=algolia" width="400" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdi-kaynar&layout=compact&theme=algolia" width="400" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferdi-kaynar&theme=algolia" width="400" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferdi-kaynar&theme=algolia" width="800" alt="Profile Details"/>
+</div>
+
+## 🎯 Aktivite Grafiği
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ferdi-kaynar&theme=react-dark&hide_border=true&area=true)
+
+## 🎓 Sertifikalar ve Eğitimler
+
+<details>
+<summary>IBM Sertifikaları 🏆</summary>
+<br>
+  
+- 🔹 IBM Data Science (Nis 2025)
+- 🔹 Working in a Digital World: Professional Skills (Eyl 2024)
+</details>
+
+<details>
+<summary>Miuul Sertifikaları 🎯</summary>
+<br>
+  
+- 🔸 Feature Engineering (Kas 2024)
+- 🔸 Miuul Machine Learning Camp (Kas 2024)
+- 🔸 Introduction to Data Science and AI (Eki 2024)
+- 🔸 Machine Learning (Eki 2024)
+- 🔸 Python Programming for Data Science (Eki 2024)
+</details>
+
+<details>
+<summary>Diğer Sertifikalar 🌟</summary>
+<br>
+  
+- 🎯 First Step to Artificial Intelligence - AI Business School (Ağu 2024)
+- 🎯 Image Processing with Deep Learning - T.C. Cumhurbaşkanlığı Dijital Dönüşüm Ofisi (Ağu 2024)
+- 🎯 Machine Learning - BTK Akademi (Ağu 2024)
+- 🎯 Enterprise and Infrastructure Security - New York University (Tem 2024)
+- 🎯 Agile Development Day - Coderspace (May 2024)
+- 🎯 TechDay'24 - GDSC Sakarya University (May 2024)
+</details>
+
+## 🌱 Güncel Odak Alanlarım
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-6B4EFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Big%20Data-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-47A248?style=for-the-badge" />
+</p>
+
+## 📫 İletişim
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ferdikaynar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ferdikaynar1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ferdi-kaynar">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ferdi-kaynar/ferdi-kaynar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
+
+---
+<div align="center">
+  ⭐️ Profilimi ziyaret ettiğiniz için teşekkürler! Veri bilimi ve yapay zeka projelerinde işbirliği yapmak veya fikir alışverişinde bulunmak için benimle iletişime geçmekten çekinmeyin.
+</div>
 
 
 <!---

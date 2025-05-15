@@ -1,16 +1,6 @@
 # 👋 Merhaba, Ben Ferdi Kaynar!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&lines=Veri+Bilimi+ve+Yapay+Zeka+Geliştiricisi;Machine+Learning+ve+Deep+Learning+Uzmanı;Python+Developer" alt="Typing SVG" />
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=4%2B+Yıl+Deneyim;20%2B+Sertifika;50%2B+Proje)](https://git.io/typing-svg)
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferdi-kaynar&label=Profile%20views&color=38BDAE&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ferdi-kaynar?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ferdi-kaynar?label=Stars&style=social" alt="GitHub Stars" />
-</p>
 
 ## 👨‍💻 Hakkımda
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6NWk2Y2E3NmN1ZWdxbGxvNnBnOWFxcXB0c2Zxd2Vxc2txeWRvdCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -57,8 +47,7 @@ Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferdi-kaynar&theme=algolia" width="800" alt="Profile Details"/>
 </div>
 
-## 🎯 Aktivite Grafiği
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ferdi-kaynar&theme=react-dark&hide_border=true&area=true)
+
 
 ## 🎓 Sertifikalar ve Eğitimler
 
@@ -115,9 +104,6 @@ Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ferdi-kaynar/ferdi-kaynar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

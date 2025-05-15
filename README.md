@@ -5,7 +5,7 @@
 ## 👨‍💻 Hakkımda
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6NWk2Y2E3NmN1ZWdxbGxvNnBnOWFxcXB0c2Zxd2Vxc2txeWRvdCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim. Makine öğrenmesi, derin öğrenme ve veri analizi konularında güçlü bir altyapıya sahibim. Yenilikçi çözümler geliştirmeye ve sürekli öğrenmeye odaklanıyorum
+Veri Bilimi ve Yapay Zeka alanlarında uzmanlaşan bir yazılım geliştiriciyim. Makine öğrenmesi, derin öğrenme ve veri analizi konularında güçlü bir altyapıya sahibim. Yenilikçi çözümler geliştirmeye ve sürekli öğrenmeye odaklanıyorum.
 
 
 

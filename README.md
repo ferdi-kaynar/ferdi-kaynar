@@ -59,22 +59,11 @@
 
 <div align="center">
   
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ferdi-kaynar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-### 📈 Contribution Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ferdi-kaynar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdi-kaynar&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 
 ### 💻 Most Used Languages & Productivity
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdi-kaynar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferdi-kaynar&theme=tokyonight&utcOffset=3" width="48%" />
 
-### 📊 Detailed Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferdi-kaynar&theme=tokyonight" width="100%" />
-
-### 📉 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdi-kaynar&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
@@ -172,21 +161,7 @@
 
 </div>
 
----
 
-<div align="center">
-  
-### 💡 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferdi-kaynar/ferdi-kaynar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferdi-kaynar/ferdi-kaynar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferdi-kaynar/ferdi-kaynar/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### ⭐️ Thanks for visiting my profile!
 
